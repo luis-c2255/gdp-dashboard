@@ -106,6 +106,7 @@ filtered_gdp_df = gdp_df[
 ]
 
 st.header('GDP over time', divider='gray')
+st.subheader('GDP')
 
 ''
 
